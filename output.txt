@@ -1,0 +1,42 @@
+Employee Number: 7
+Kishi, Claudia
+303 Ginger Blvd
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $64.38 
+
+Employee Number: 1
+McGill, Stacey
+231 Maple Avenue
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $19.50 
+
+Employee Number: 5
+Pike, Mallory
+656 Brook Lane
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $23.81 
+
+Employee Number: 6
+Ramsey, Jessi
+545 Greeenleaf Street
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $75.00 
+
+Employee Number: 4
+Scahfer, Dawn
+131 Apple Gardens
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $28.50 
+
+Employee Number: 2
+Spier, Marryann
+401 Orange Lane
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $84.00 
+
+Employee Number: 3
+Thomas, Kristy
+222 Blosom Blvd.
+Stoneybrook,, Connecticut 30122
+BABYSITTER FEE: $19.00 
+
